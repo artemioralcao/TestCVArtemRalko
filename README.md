@@ -48,11 +48,11 @@
 <p>10.2018 - 09.2019 &nbsp; <a href="https://www.about.hsbc.pl/pl-pl/hsbc-in-poland/hsbc-service-delivery">HP Printing and Computing Solutions, S.L.U.</a>&nbsp;
     <b>Customer Operations Specialist</b>
                 <ul>
-                <li>First point of contact for German-speaking employees</li>
-                <li>Remote troubleshooting of incoming hardware and software issues for corporate applications</li>
-                <li>Taking ownership for ticket resolution according to ITIL methodology</li>
+                <li>Taking ownership of an order process and ensuring delivery towards customer satisfaction and clearly defined KPIs</li>
+                <li>Resolving operational issues that may arise from the end-to-end sales process (order and delivery status, invoicing, returns, and financial post-sales programs)</li>
+                <li>Collaboration with other departments to resolve issues (e.g. sales teams, supply chain, logistics)</li>
                 <li>Cooperating with other teams</li>
-                <li>Assisting with ticket escalation</li>
+                <li>Escalations and order prioritizing</li>
             </ul>
         </section>
         <section class="languages">
