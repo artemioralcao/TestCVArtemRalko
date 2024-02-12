@@ -1,4 +1,3 @@
-</head>
 <body>
     <header>
         <h1>Personal Webpage Artemio Ralcao</h1>
@@ -19,4 +18,4 @@
         </section>
     </div>
 </body>
-</html>
+
