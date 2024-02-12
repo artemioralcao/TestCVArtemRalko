@@ -18,7 +18,32 @@
             Ability to work proactively, results-/target-driven personality <br>
             Adaptable to changing environments & flexible when it comes to working patterns <br> </p>
         <h3>Work Experience:</h3>
-<p>Born in Zaporizhya, Ukraine, now living in Poland. Speaks German, English, Spanish, and Ukrainian.</p>
+<p>05.2023 - now &emsp; <a href="https://www.kiongroup.com/en/Landing-Pages/KION-Business-Services-Polska/">KION Business Services Polska</a>&nbsp;
+    <b>Application Administrator with German </b>
+                <ul>
+                <li>Application Deployment Administration</li>
+                <li>MSSQL DB Administrations</li>
+                <li>Tech support and troubleshooting</li>
+                <li>Serving as a liaison between internal teams and external clients</li>
+                <li>Documentation and Knowledge Base: Maintain up-to-date documentation</li>
+            </ul>
+<p>04.2021 - 04.2023 &nbsp; <a href="https://www.kiongroup.com/en/Landing-Pages/KION-Business-Services-Polska/">TTMS S.A.</a>&nbsp;
+    <b>Application Support Specialist with German</b>
+                <ul>
+                <li>Backend component ownership and administration of different Web Applications</li>
+                <li>Active usage of MSSQL, Oracle DB, Windows/Linux Servers</li>
+                <li>Application-related issues resolution</li>
+                <li>Cooperating with other teams and third parties</li>
+                <li>Application Installation, Deployment, Configuration, writing documentation</li>
+            </ul>  
+<p>08.2020 - 03.2021 &nbsp; <a href="https://www.about.hsbc.pl/pl-pl/hsbc-in-poland/hsbc-service-delivery">HSBC Service Delivery (Polska) Sp. z o.o.</a>
+                <ul>
+                <li>Backend component ownership and administration of different Web Applications</li>
+                <li>Active usage of MSSQL, Oracle DB, Windows/Linux Servers</li>
+                <li>Application-related issues resolution</li>
+                <li>Cooperating with other teams and third parties</li>
+                <li>Application Installation, Deployment, Configuration, writing documentation</li>
+            </ul>
         </section>
         <section class="languages">
             <h2>Languages</h2>
