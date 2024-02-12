@@ -36,13 +36,23 @@
                 <li>Cooperating with other teams and third parties</li>
                 <li>Application Installation, Deployment, Configuration, writing documentation</li>
             </ul>  
-<p>08.2020 - 03.2021 &nbsp; <a href="https://www.about.hsbc.pl/pl-pl/hsbc-in-poland/hsbc-service-delivery">HSBC Service Delivery (Polska) Sp. z o.o.</a>
+<p>08.2020 - 03.2021 &nbsp; <a href="https://www.about.hsbc.pl/pl-pl/hsbc-in-poland/hsbc-service-delivery">HSBC Service Delivery (Polska) Sp. z o.o.</a>&nbsp;
+    <b>IT Support Analyst with German</b>
                 <ul>
-                <li>Backend component ownership and administration of different Web Applications</li>
-                <li>Active usage of MSSQL, Oracle DB, Windows/Linux Servers</li>
-                <li>Application-related issues resolution</li>
-                <li>Cooperating with other teams and third parties</li>
-                <li>Application Installation, Deployment, Configuration, writing documentation</li>
+                <li>First point of contact for German-speaking employees</li>
+                <li>Remote troubleshooting of incoming hardware and software issues for corporate applications</li>
+                <li>Taking ownership for ticket resolution according to ITIL methodology</li>
+                <li>Cooperating with other teams</li>
+                <li>Assisting with ticket escalation</li>
+            </ul>
+<p>10.2018 - 09.2019 &nbsp; <a href="https://www.about.hsbc.pl/pl-pl/hsbc-in-poland/hsbc-service-delivery">HP Printing and Computing Solutions, S.L.U.</a>&nbsp;
+    <b>Customer Operations Specialist</b>
+                <ul>
+                <li>First point of contact for German-speaking employees</li>
+                <li>Remote troubleshooting of incoming hardware and software issues for corporate applications</li>
+                <li>Taking ownership for ticket resolution according to ITIL methodology</li>
+                <li>Cooperating with other teams</li>
+                <li>Assisting with ticket escalation</li>
             </ul>
         </section>
         <section class="languages">
