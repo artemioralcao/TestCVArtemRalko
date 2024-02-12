@@ -12,7 +12,7 @@
              <p>E-mail:		artem.ralko@gmail.com</p>
       <h3>Profile:</h3>
             <p>More than 10 years of German/English customer support service <br>
-            Over 2 years of Application Administration and 2nd line of Support <br>
+            Over then 3 years of Application Administration and 2nd line of Support <br>
             Passion for IT-related issues resolution and for learning new technologies <br>
             Responsibility for business-critical IT systems and applications <br>
             Ability to work proactively, results-/target-driven personality <br>
