@@ -1,4 +1,5 @@
 CURRICULUM VITAE
+
 Artem Ralko 
 Phone number:	+48 576 669 793
 E-mail:		artem.ralko@gmail.com 
