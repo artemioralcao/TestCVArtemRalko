@@ -63,6 +63,15 @@
                 <li>Coordination of operational relationships, liaison with vendors and internal teams to resolve customer queries and incidents</li>
                 <li>Ensuring that records are maintained accurately and on time to facilitate smooth running of business</li>
             </ul>
+<p>06.2013 - 09.2016 &nbsp; <a href="https://www.hcltech.com/geo-presence/poland">HCL Poland Sp. z o.o.</a>&nbsp;
+    <b>Technical Analyst - Shift Lead</b>
+                <ul>
+                <li>Answering calls and emails from customers with technical queries and incidents</li>
+                <li>Troubleshooting of Data and Transmission issues (CCNA level)</li>
+                <li>Resolving queries and incidents as documented in procedures</li>
+                <li>Coordination of operational relationships, liaison with vendors and internal teams to resolve customer queries and incidents</li>
+                <li>Ensuring that records are maintained accurately and on time to facilitate smooth running of business</li>
+            </ul>
         </section>
         <section class="languages">
             <h2>Languages</h2>
