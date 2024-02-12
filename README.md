@@ -1,2 +1,1 @@
-Personal Webpage
-        Personal Webpage Artemio Ralcao
+Personal Webpage Artemio Ralcao
