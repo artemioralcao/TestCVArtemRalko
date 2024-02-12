@@ -54,6 +54,15 @@
                 <li>Cooperating with other teams</li>
                 <li>Escalations and order prioritizing</li>
             </ul>
+<p>10.2016 - 07.2018 &nbsp; <a href="https://www.colt.net/">Colt Technology Services S.A.U.</a>&nbsp;
+    <b>Technical Analyst</b>
+                <ul>
+                <li>Answering calls and emails from customers with technical queries and incidents</li>
+                <li>Troubleshooting of Data and Transmission issues (CCNA level)</li>
+                <li>Resolving queries and incidents as documented in procedures</li>
+                <li>Coordination of operational relationships, liaison with vendors and internal teams to resolve customer queries and incidents</li>
+                <li>Ensuring that records are maintained accurately and on time to facilitate smooth running of business</li>
+            </ul>
         </section>
         <section class="languages">
             <h2>Languages</h2>
