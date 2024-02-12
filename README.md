@@ -1,10 +1,12 @@
 CURRICULUM VITAE
 
 Artem Ralko 
+
 Phone number:	+48 576 669 793
 E-mail:		artem.ralko@gmail.com 
 
 PROFILE
+
 More than 10 years of German/English customer support service
 Over 2 years of Application Administration and 2nd line of Support
 Passion for IT-related issues resolution and for learning new technologies
@@ -13,6 +15,7 @@ Ability to work proactively, results-/target-driven personality
 Adaptable to changing environments & flexible when it comes to working patterns
 
 WORK EXPERIENCE
+
 04. 2021 – now	Transition Technologies MS	Application Support Specialist
 •	Backend component ownership and administration of different Web Applications
 •	Active usage of MSSQL, Oracle DB, Windows/Linux Servers
@@ -68,6 +71,7 @@ As Analyst and Senior Analyst:
 •	Assistance during transfer of guests from and to the airport
 
 EDUCATION
+
 10. 2014			Inland Skipper patent 
 04. 2014			ITIL foundation certificate 
 05. 2011			„Creativity in sales” training sessions 
@@ -76,6 +80,7 @@ The Faculty of Foreign Languages
 Specialization – German/English translation studies 
 
 LANGUAGES
+
 Ukrainian		native speaker 
 German		advanced level 
 English		advanced level 
@@ -84,6 +89,7 @@ Spanish 		intermediate (B1)
 
 
 PERSONAL CHARACTERISTCS
+
 Open to new opportunities, strong communication skills, adaptable
 High negotiation skills / customer interaction skills
 Ability to cooperate in a team as well as work under stress
