@@ -65,13 +65,26 @@
             </ul>
 <p>06.2013 - 09.2016 &nbsp; <a href="https://www.hcltech.com/geo-presence/poland">HCL Poland Sp. z o.o.</a>&nbsp;
     <b>Technical Analyst - Shift Lead</b>
-                <ul>
-                <li>Answering calls and emails from customers with technical queries and incidents</li>
-                <li>Troubleshooting of Data and Transmission issues (CCNA level)</li>
-                <li>Resolving queries and incidents as documented in procedures</li>
-                <li>Coordination of operational relationships, liaison with vendors and internal teams to resolve customer queries and incidents</li>
-                <li>Ensuring that records are maintained accurately and on time to facilitate smooth running of business</li>
+    <p></p>
+    <b>As Shift Team Leader:</b>
+       <ul>
+                <li>Direct involvement in recruitment and selection</li>
+                <li>Induction training and ongoing skills development for all team member</li>
+                <li>Reviewing and monitoring work performance </li>
+                <li>Monthly meetings with team members</li>
+                <li>Controlling of KPIs fulfillment and key performance metrics, ensuring clear communication between a client and the Operation Manager</li>
             </ul>
+    <b>As Analyst and Senior Analyst:</b>
+                <ul>
+                <li>First point of contact for clients and customers</li>
+                <li>Troubleshooting incoming issues with hardware, software and corporate applications issues</li>
+                <li>Proactive ticket resolution</li>
+                <li>Coordinating issues resolution with other teams</li>
+                <li>Assistance with ticket escalation</li>
+            </ul>
+        </section>
+        <section class="Education">
+            <h2>Languages</h2>
         </section>
         <section class="languages">
             <h2>Languages</h2>
