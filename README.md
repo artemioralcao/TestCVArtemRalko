@@ -16,7 +16,7 @@
             Ability to work proactively, results-/target-driven personality <br>
             Adaptable to changing environments & flexible when it comes to working patterns <br> </p>
         <h3>Work Experience</h3>
-<p>05.2023 - now &emsp; <a href="https://www.kiongroup.com/en/Landing-Pages/KION-Business-Services-Polska/">KION Business Services Polska</a>&nbsp;
+<p>05.2023 - now &emsp; <a href="https://www.kiongroup.com/en/Landing-Pages/KION-Business-Services-Polska/">KION Business Services Polska Sp. z o.o.</a>&nbsp;
     <b>Application Administrator</b>
                 <ul>
                 <li>Application Deployment Administration</li>
