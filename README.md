@@ -43,7 +43,7 @@
                 <li>Cooperating with other teams</li>
                 <li>Assisting with ticket escalation</li>
             </ul>
-<p>10.2018 - 09.2019 &nbsp; <a href="https://www.about.hsbc.pl/pl-pl/hsbc-in-poland/hsbc-service-delivery">HP Printing and Computing Solutions, S.L.U.</a>&nbsp;
+<p>10.2018 - 09.2019 &nbsp; <a href="https://www.hp.com/es-es/home.html">HP Printing and Computing Solutions, S.L.U.</a>&nbsp;
     <b>Customer Operations Specialist</b>
                 <ul>
                 <li>Taking ownership of an order process and ensuring delivery towards customer satisfaction and clearly defined KPIs</li>
