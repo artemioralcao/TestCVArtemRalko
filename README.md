@@ -80,7 +80,6 @@
                 <li>Coordinating issues resolution with other teams</li>
                 <li>Assistance with ticket escalation</li>
             </ul>
-        </section>
         <section class="Education">
             <h2>Education</h2>
             <ul>
