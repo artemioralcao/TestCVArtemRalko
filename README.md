@@ -115,5 +115,4 @@
             <div align="right">
 Artem Ralko
 </div>
-    </div>
 </body>
