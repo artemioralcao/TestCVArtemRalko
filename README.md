@@ -3,7 +3,7 @@
     </header>
     <div class="container">
         <section class="bio">
-            <h2>Artem Ralko</h2>
+            <h2 align="center">Artem Ralko</h2>
         <header>
         <h3>Contacts:</h3>
     </header>
@@ -97,10 +97,11 @@
         <section class="languages">
             <h2>Languages</h2>
             <ul>
-                <li>German</li>
-                <li>English</li>
-                <li>Spanish</li>
-                <li>Ukrainian</li>
+                <li>Ukrainian &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Native Speaker</li>
+                <li>German&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;Advanced C1</li>
+                <li>English&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&ensp;&ensp;Advanced C1</li>
+                <li>Polish &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp; Advanced C1</li>
+                <li>Spanish&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;Intermediate B1</li>
             </ul>
         </section>
     </div>
