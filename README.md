@@ -5,20 +5,20 @@
         <section class="bio">
             <h2 align="center">Artem Ralko</h2>
         <header>
-        <h3>Contacts:</h3>
+        <h3>Contacts</h3>
     </header>
              <p>Phone number:	+48 576 669 793</p>
              <p>E-mail:		artem.ralko@gmail.com</p>
-      <h3>Profile:</h3>
+      <h3>Profile</h3>
             <p>More than 10 years of German/English customer support service <br>
             Over then 3 years of Application Administration and 2nd line of Support <br>
             Passion for IT-related issues resolution and for learning new technologies <br>
             Responsibility for business-critical IT systems and applications <br>
             Ability to work proactively, results-/target-driven personality <br>
             Adaptable to changing environments & flexible when it comes to working patterns <br> </p>
-        <h3>Work Experience:</h3>
+        <h3>Work Experience</h3>
 <p>05.2023 - now &emsp; <a href="https://www.kiongroup.com/en/Landing-Pages/KION-Business-Services-Polska/">KION Business Services Polska</a>&nbsp;
-    <b>Application Administrator with German </b>
+    <b>Application Administrator</b>
                 <ul>
                 <li>Application Deployment Administration</li>
                 <li>MSSQL DB Administrations</li>
@@ -27,7 +27,7 @@
                 <li>Documentation and Knowledge Base: Maintain up-to-date documentation</li>
             </ul>
 <p>04.2021 - 04.2023 &nbsp; <a href="https://www.kiongroup.com/en/Landing-Pages/KION-Business-Services-Polska/">TTMS S.A.</a>&nbsp;
-    <b>Application Support Specialist with German</b>
+    <b>Application Support Specialist</b>
                 <ul>
                 <li>Backend component ownership and administration of different Web Applications</li>
                 <li>Active usage of MSSQL, Oracle DB, Windows/Linux Servers</li>
@@ -36,7 +36,7 @@
                 <li>Application Installation, Deployment, Configuration, writing documentation</li>
             </ul>  
 <p>08.2020 - 03.2021 &nbsp; <a href="https://www.about.hsbc.pl/pl-pl/hsbc-in-poland/hsbc-service-delivery">HSBC Service Delivery (Polska) Sp. z o.o.</a>&nbsp;
-    <b>IT Support Analyst with German</b>
+    <b>IT Support Analyst</b>
                 <ul>
                 <li>First point of contact for German-speaking employees</li>
                 <li>Remote troubleshooting of incoming hardware and software issues for corporate applications</li>
@@ -65,7 +65,7 @@
 <p>06.2013 - 09.2016 &nbsp; <a href="https://www.hcltech.com/geo-presence/poland">HCL Poland Sp. z o.o.</a>&nbsp;
     <b>Technical Analyst - Shift Lead</b>
     <p></p>
-    <b>As Shift Team Leader:</b>
+    <b>As Shift Team Leader</b>
        <ul>
                 <li>Direct involvement in recruitment and selection</li>
                 <li>Induction training and ongoing skills development for all team member</li>
@@ -73,7 +73,7 @@
                 <li>Monthly meetings with team members</li>
                 <li>Controlling of KPIs fulfillment and key performance metrics, ensuring clear communication between a client and the Operation Manager</li>
             </ul>
-    <b>As Analyst and Senior Analyst:</b>
+    <b>As Analyst and Senior Analyst</b>
                 <ul>
                 <li>First point of contact for clients and customers</li>
                 <li>Troubleshooting incoming issues with hardware, software and corporate applications issues</li>
@@ -104,6 +104,14 @@
                 <li>Spanish&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;Intermediate B1</li>
             </ul>
         </section>
+    <section class="Personal Characteristics">
+            <h2>Personal Characteristics</h2>
+            <p>Open to new opportunities, strong communication skills, adaptable<br>
+            High negotiation skills / customer interaction skills<br>
+            Ability to cooperate in a team as well as work under stress<br>
+            Ability to demonstrate the developed skills needed to perform complex tasks<br>
+            Ability to find solutions in a timely manner<br>
+            Business trips are absolutely OK<br> </p>
+        </section>
     </div>
 </body>
-
