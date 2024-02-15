@@ -85,12 +85,12 @@
         <section class="Education">
             <h2>Education</h2>
             <ul>
-                <li>10. 2014 Inland Skipper patent</li>
-                <li>04. 2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ITIL foundation certificate </li>
-                <li>05. 2011&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;„Creativity in sales” training sessions </li>
-                <li>09. 2001 – 06. 2006&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zaporizhzhia National University<br>
-The Faculty of Foreign Languages<br> 
-Specialization – German/English translation studies 
+                <li>10. 2014 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Inland Skipper patent</li>
+                <li>04. 2014 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;ITIL foundation certificate </li>
+                <li>05. 2011 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;„Creativity in sales” training sessions </li>
+                <li>09. 2001 – 06. 2006 &emsp;&emsp;&nbsp;Zaporizhzhia National University<br>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &nbsp; &nbsp;The Faculty of Foreign Languages<br> 
+ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &nbsp; &nbsp;Specialization – German/English translation studies 
 </li>
             </ul>
         </section>
