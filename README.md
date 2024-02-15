@@ -25,7 +25,7 @@
                 <li>Serving as a liaison between internal teams and external clients</li>
                 <li>Documentation and Knowledge Base: Maintain up-to-date documentation</li>
             </ul>
-<p>04.2021 - 04.2023 &nbsp; <a href="https://www.kiongroup.com/en/Landing-Pages/KION-Business-Services-Polska/">TTMS S.A.</a>&nbsp;
+<p>04.2021 - 04.2023 &nbsp; <a href="https://ttms.com">TTMS S.A.</a>&nbsp;
     <b>Application Support Specialist</b>
                 <ul>
                 <li>Backend component ownership and administration of different Web Applications</li>
