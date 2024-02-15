@@ -113,5 +113,8 @@
             Ability to find solutions in a timely manner<br>
             Business trips are absolutely OK<br> </p>
         </section>
+            <div align="right">
+Artem Ralko
+</div>
     </div>
 </body>
