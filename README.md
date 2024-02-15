@@ -2,7 +2,7 @@
         <h1 align="center">CURRICULUM VITAE</h1>
     <div class="container">
         <section class="bio">
-            <h2 align="center">Artem Ralko</h2>
+            <h2>Artem Ralko</h2>
         <header>
         <h3>Contacts</h3>
     </header>
