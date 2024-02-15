@@ -1,6 +1,5 @@
 <body>
         <h1 align="center">CURRICULUM VITAE</h1>
-    </header>
     <div class="container">
         <section class="bio">
             <h2 align="center">Artem Ralko</h2>
